@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-- 🎓 BCA student with a **backend-first mindset**
+- 🎓 BTech student with a **backend-first mindset**
 - 🐧 Passionate about **Linux, Networking, HTTP internals, Low-Level Systems**
-- 🚀 Currently building **my own web framework (DoomHTTP)** from raw TCP sockets
+- 🚀 Currently building **my own web framework from raw TCP sockets
 - 🔥 Trying to become internship-ready for **GitLab / Canonical / Red Hat**
 - 📚 Learning: Linux internals, HTTP, REST, C fundamentals, and backend architecture
 - ⚡ Love building things from scratch instead of depending on frameworks
@@ -30,7 +30,7 @@
 - Response builder with dynamic status codes  
 - Coming soon → JSON, POST, static files, decorators, middleware  
 
-👉 **Repo:** https://github.com/Krustylys/doom-http
+👉 **Repo:** https://github.com/Krustylys/http-server
 
 ---
 
@@ -82,12 +82,9 @@ Displays CPU/Memory/OS details.
 
 ## 🤝 Connect With Me
 
-**Email:** — *Add your email here*  
-**LinkedIn:** — *Add link if you make one*  
-**GitHub:** https://github.com/Krustylys  
+**Email:** — *krustylys@gmail.com*
+**LinkedIn:** — **  
+  
 
 ---
 
-<p align="center">
-  <strong>“Building from scratch is slow… until the day you outrun everyone who used shortcuts.”</strong>
-</p>
