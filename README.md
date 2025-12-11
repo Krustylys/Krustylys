@@ -15,22 +15,12 @@
 - 🐧 Passionate about **Linux, Networking, HTTP internals, Low-Level Systems**
 - 🚀 Currently building **my own web framework from raw TCP sockets
 - 🔥 Trying to become internship-ready for **GitLab / Canonical / Red Hat**
-- 📚 Learning: Linux internals, HTTP, REST, C fundamentals, and backend architecture
-- ⚡ Love building things from scratch instead of depending on frameworks
+- 📚 Learning: Linux internals, and backend architecture
+
 
 ---
 
-## 🚀 What I'm Working On
 
-### 🔥 **DoomHTTP – My own micro web framework**
-> Built from scratch using raw TCP sockets, custom request parser, router, and response builder.
-
-- HTTP request parsing (method, path, headers, query params)  
-- Routing engine (mini Flask-style)  
-- Response builder with dynamic status codes  
-- Coming soon → JSON, POST, static files, decorators, middleware  
-
-👉 **Repo:** https://github.com/Krustylys/http-server
 
 ---
 
@@ -39,46 +29,16 @@
 ### **Languages**
 - Python 🐍  
 - C ⚙️  
-- Bash 🐚  
+- Bash 🐚
+- C++
+- js
+- 
 
-### **Backend / Systems**
-- Raw sockets  
-- HTTP internals  
-- JSON, REST  
-- Linux system programming  
-- Systemd, journald, logs  
-- Git & GitHub (SSH workflow)
+
 
 ### **OS & Tools**
 - Fedora  
-- Arch Linux (Hyprland)  
-- VSCode / NeoVim  
-- Git  
-- Curl, Wget, Netstat, ss  
-
----
-
-## 📌 Featured Projects
-
-### 🔥 **DoomHTTP**
-Raw HTTP server + router + request parser.  
-*Building my own framework from the ground up.*
-
-### 📟 **Sysinfo-CLI**
-Linux system info tool written in Python + Bash.  
-Displays CPU/Memory/OS details.
-
----
-
-## 🏆 Goals for 2025–2026
-
-- 🌐 Build fully working web backend from zero  
-- 💻 Master Linux and networking fundamentals  
-- 🐧 Contribute to open-source (GitLab / Canonical projects)  
-- 🧠 Become a strong backend engineer  
-- 🎯 Land a systems/backend internship  
-
----
+- Arch Linux (Hyprland) 
 
 ## 🤝 Connect With Me
 
