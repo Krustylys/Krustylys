@@ -12,9 +12,7 @@
 ## 🧠 About Me
 
 - 🎓 BTech student with a **backend-first mindset**
-- 🐧 Passionate about **Linux, Networking, HTTP internals, Low-Level Systems**
-- 🚀 Currently building **my own web framework from raw TCP sockets
-- 🔥 Trying to become internship-ready for **GitLab / Canonical / Red Hat**
+- 🐧 Passionate about **Linux, Networking, HTTP internals, Low-Level Systems*
 - 📚 Learning: Linux internals, and backend architecture
 
 
